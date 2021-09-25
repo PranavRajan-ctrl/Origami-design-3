@@ -1,0 +1,38 @@
+h1{
+    color: rgb(255, 145, 0);
+}
+h2{
+    color:aqua;
+    text-align: center;
+}
+.Banner-text{
+    text-align: center;
+    padding-top: 450px;
+}
+.Banner-text h1{
+    color: #ffffff;
+}
+.grid{
+    background-color: lightgray;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.title{
+    background-color: lightgreen;
+    display: flex;
+    flex-direction: column;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;  
+}
+p{
+    text-align: center;
+}
+
+body{
+    /* background-color: rgb(128,128,128); */
+    /* background-color: gray; */
+    background-color: #ffffff;
+}
